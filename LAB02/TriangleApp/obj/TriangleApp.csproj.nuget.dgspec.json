@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ООП\\LABOOP\\LAB02\\TriangleApp\\TriangleApp.csproj": {}
+    "c:\\OOP\\lab.rob\\LABOOP\\LAB02\\TriangleApp\\TriangleApp.csproj": {}
   },
   "projects": {
-    "C:\\ООП\\LABOOP\\LAB02\\TriangleApp\\TriangleApp.csproj": {
+    "c:\\OOP\\lab.rob\\LABOOP\\LAB02\\TriangleApp\\TriangleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ООП\\LABOOP\\LAB02\\TriangleApp\\TriangleApp.csproj",
+        "projectUniqueName": "c:\\OOP\\lab.rob\\LABOOP\\LAB02\\TriangleApp\\TriangleApp.csproj",
         "projectName": "TriangleApp",
-        "projectPath": "C:\\ООП\\LABOOP\\LAB02\\TriangleApp\\TriangleApp.csproj",
+        "projectPath": "c:\\OOP\\lab.rob\\LABOOP\\LAB02\\TriangleApp\\TriangleApp.csproj",
         "packagesPath": "C:\\Users\\Home-Note\\.nuget\\packages\\",
-        "outputPath": "C:\\ООП\\LABOOP\\LAB02\\TriangleApp\\obj\\",
+        "outputPath": "c:\\OOP\\lab.rob\\LABOOP\\LAB02\\TriangleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home-Note\\AppData\\Roaming\\NuGet\\NuGet.Config"
