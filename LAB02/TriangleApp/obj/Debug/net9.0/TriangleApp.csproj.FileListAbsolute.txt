@@ -1,0 +1,15 @@
+C:\ООП\LABOOP\LAB02\TriangleApp\bin\Debug\net9.0\TriangleApp.exe
+C:\ООП\LABOOP\LAB02\TriangleApp\bin\Debug\net9.0\TriangleApp.deps.json
+C:\ООП\LABOOP\LAB02\TriangleApp\bin\Debug\net9.0\TriangleApp.runtimeconfig.json
+C:\ООП\LABOOP\LAB02\TriangleApp\bin\Debug\net9.0\TriangleApp.dll
+C:\ООП\LABOOP\LAB02\TriangleApp\bin\Debug\net9.0\TriangleApp.pdb
+C:\ООП\LABOOP\LAB02\TriangleApp\obj\Debug\net9.0\TriangleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ООП\LABOOP\LAB02\TriangleApp\obj\Debug\net9.0\TriangleApp.AssemblyInfoInputs.cache
+C:\ООП\LABOOP\LAB02\TriangleApp\obj\Debug\net9.0\TriangleApp.AssemblyInfo.cs
+C:\ООП\LABOOP\LAB02\TriangleApp\obj\Debug\net9.0\TriangleApp.csproj.CoreCompileInputs.cache
+C:\ООП\LABOOP\LAB02\TriangleApp\obj\Debug\net9.0\TriangleApp.sourcelink.json
+C:\ООП\LABOOP\LAB02\TriangleApp\obj\Debug\net9.0\TriangleApp.dll
+C:\ООП\LABOOP\LAB02\TriangleApp\obj\Debug\net9.0\refint\TriangleApp.dll
+C:\ООП\LABOOP\LAB02\TriangleApp\obj\Debug\net9.0\TriangleApp.pdb
+C:\ООП\LABOOP\LAB02\TriangleApp\obj\Debug\net9.0\TriangleApp.genruntimeconfig.cache
+C:\ООП\LABOOP\LAB02\TriangleApp\obj\Debug\net9.0\ref\TriangleApp.dll
